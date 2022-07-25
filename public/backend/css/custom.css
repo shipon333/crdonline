@@ -1,0 +1,30 @@
+.login-form .btn {
+     margin: 0 auto;
+     display: inline-block;
+}
+.profile-greeting {
+     background-image: none !important;
+}
+.total-device .knob-block input {
+     margin-top: -25px !important;
+}
+.page-wrapper.compact-wrapper .page-body-wrapper header.main-nav .main-navbar .nav-menu {
+     height: 100vh;
+}
+.btn-sm, .btn-group-sm > .btn {
+     padding: 0.25rem 0.5rem;
+}
+.card .card-header {
+     padding: 15px;
+}
+
+.card.income-card .card-body{
+     padding: 20px;
+}
+.card.income-card p{
+     margin: 0;
+     font-size: 13px;
+}
+.card.income-card{
+     cursor: pointer;
+}
